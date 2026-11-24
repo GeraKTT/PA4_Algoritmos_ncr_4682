@@ -63,7 +63,12 @@ Ejecucion:
 
 <img width="371" height="195" alt="Evidencia1_ejecucion" src="https://github.com/user-attachments/assets/e5c947b8-678b-4099-8bef-38177ba5f112" />
 
-- Evidencia 2:
+- Evidencia 2: ordenamiento recursivo
+  <img width="1291" height="892" alt="one" src="https://github.com/user-attachments/assets/f65dc9b3-70f2-4c89-a5b2-846421be5806" />
+<img width="1245" height="862" alt="two" src="https://github.com/user-attachments/assets/6b9a0805-8689-42e3-ab65-8c263e5d9c99" />
+<img width="1257" height="747" alt="tree" src="https://github.com/user-attachments/assets/6b8c37ae-86c9-4df1-b2ae-0773c4136b2e" />
+<img width="442" height="442" alt="four" src="https://github.com/user-attachments/assets/e4936f1c-7661-4ab4-8c2c-d64937dfc167" />
+
 - Evidencia 3: 
 - Evidencia 4: 
 
