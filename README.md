@@ -10,7 +10,7 @@
 | Integrante | Rol | Aporte principal |
 |---|---|---|
 | Geraldine Khatrina Tudela Theo | Desarrolladora | Desarrollo de la Actividad 1: Recursividad aplicada. Explicación de la recursividad y el principio divide y vencerás, implementación de un algoritmo recursivo en Java para recorrer las ubicaciones del campus e identificación del caso base, caso recursivo y condición de finalización. |
-| Mijail Mendoza Chavez | Programador |  |
+| Mijail Mendoza Chavez | Desarrollador del algoritmo de ordenamiento recursivo | Diseño e implementación del algoritmo Merge Sort en Java para ordenar los tiempos estimados de recorrido de las ubicaciones del campus. |
 |Victor Manuel Fabricio Quispe Gonzales | Analista |
 | [Nombre 4] | [Rol] | [Aporte] 
 
