@@ -27,6 +27,15 @@ Se desarrolló un algoritmo recursivo en Java que utiliza un arreglo para almace
 
 Mediante la función mostrarUbicaciones, el programa recorre cada elemento del arreglo hasta llegar a la condición de finalización. De esta manera, se demuestra cómo aplicar la recursividad para procesar información sin utilizar un ciclo repetitivo.
 
+**Aporte de la Actividad 2: Ordenamiento recursivo**
+
+Se desarrolló un algoritmo de ordenamiento recursivo utilizando Merge Sort en Java, mediante el entorno de desarrollo IntelliJ IDEA.
+
+El algoritmo permite organizar las ubicaciones del campus según sus tiempos estimados de recorrido, de menor a mayor. Para ello, aplica el principio de divide y vencerás, dividiendo los datos en dos partes hasta obtener elementos individuales y posteriormente combinarlos de forma ordenada.
+
+Se utilizaron seis ubicaciones como ejemplo: Biblioteca, Laboratorio, Cafetería, Aula 101, Auditorio y Administración.
+
+Como resultado, el programa logró ordenar correctamente los tiempos estimados de recorrido, demostrando la utilidad de la recursividad para procesar y organizar información dentro del sistema inteligente de orientación.
 ## 3. Cómo ejecutar o revisar
 
 ```bash
