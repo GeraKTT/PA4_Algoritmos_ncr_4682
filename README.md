@@ -77,7 +77,7 @@ Ejecucion:
 | Integrante | Desarrollo | Pruebas | Documentación | Exposición | Evidencia de participación |
 |---|---|---|---|---|---|
 | Geraldine Khatrina Tudela Theo | Alta | Media | Alta | Sí/No | Desarrollo de la Actividad 1, elaboración del algoritmo recursivo en Java, explicación del caso base y caso recursivo, documentación en PDF, evidencias, publicación en GitHub y estructuración del README.. |
-| mijail mendoza chavez | Alta | Alta | media | Sí/No |  |
+| mijail mendoza chavez | Alta | Alta | media | Sí/No |Implementación de Merge Sort en Java, pruebas en IntelliJ IDEA y documentación de la Actividad 2: Ordenamiento recursivo  |
 | Victor Manuel Fabricio Quispe Gonzales | Alta | Media | Alta | Sí | |
 | [Nombre 4] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Sí/No] | [Commits, avances, etc.] |
 | [Nombre 5] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Sí/No] | [Commits, avances, etc.] |
