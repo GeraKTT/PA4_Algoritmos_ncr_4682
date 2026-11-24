@@ -93,7 +93,7 @@ Todos los integrantes deben participar en la exposición con sus cámaras prendi
 
 - La recursividad permite resolver problemas mediante funciones que se llaman a sí mismas hasta llegar a una condición de finalización. En nuestra actividad aplicamos este concepto para recorrer las ubicaciones registradas dentro del campus mediante un algoritmo en Java.
 Este procedimiento nos ayudó a comprender el funcionamiento del caso base y del caso recursivo, además de demostrar cómo se puede utilizar la recursividad para procesar información de manera organizada dentro de un sistema de orientación.
-- 
+- Ordenamiento recursivo:Se logró implementar correctamente el algoritmo Merge Sort en Java, aplicando el principio de divide y vencerás para ordenar los tiempos estimados de recorrido de las ubicaciones del campus. Mediante la recursividad, se dividieron los datos en grupos pequeños para posteriormente combinarlos en orden ascendente, obteniendo resultados correctos durante la ejecución en IntelliJ IDEA. Finalmente, se demuestra que Merge Sort es una alternativa eficiente para organizar la información del sistema inteligente de orientación, con una complejidad temporal de O(n log n).
 ---
 
 **Última actualización:** [19/11/2026]
