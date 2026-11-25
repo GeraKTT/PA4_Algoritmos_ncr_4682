@@ -85,7 +85,7 @@ Ejecucion:
 ## 6. Video de exposición
 
 **Video público de YouTube:** 
-- [https://www.youtube.com/watch?v=eF2kos8LJEE]
+- [https://www.youtube.com/watch?v=nUfSCRFoHYI]
 
 Todos los integrantes deben participar en la exposición con sus cámaras prendidas y explicar el procedimiento, la solución desarrollada y las decisiones tomadas.
 
