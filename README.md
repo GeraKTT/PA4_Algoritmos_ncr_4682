@@ -11,7 +11,7 @@
 |---|---|---|
 | Geraldine Khatrina Tudela Theo | Desarrolladora | Desarrollo de la Actividad 1: Recursividad aplicada. Explicación de la recursividad y el principio divide y vencerás, implementación de un algoritmo recursivo en Java para recorrer las ubicaciones del campus e identificación del caso base, caso recursivo y condición de finalización. |
 | Mijail Mendoza Chavez | Desarrollador del algoritmo de ordenamiento recursivo | Diseño e implementación del algoritmo Merge Sort en Java para ordenar los tiempos estimados de recorrido de las ubicaciones del campus. |
-|Victor Manuel Fabricio Quispe Gonzales | Analista |
+| Victor Manuel Fabricio Quispe Gonzales | Analista | Desarrollo de las Actividades 3 y 4: Modelado del campus mediante un grafo ponderado no dirigido, análisis de escenarios para DFS, BFS y A*, cuadro comparativo, conclusión técnica final y relación con aplicaciones básicas de IA. |
 | [Nombre 4] | [Rol] | [Aporte] 
 
 ## 2. Descripción y objetivo
@@ -70,7 +70,7 @@ Ejecucion:
 <img width="442" height="442" alt="four" src="https://github.com/user-attachments/assets/e4936f1c-7661-4ab4-8c2c-d64937dfc167" />
 
 - Evidencia 3: 
-- Evidencia 4: 
+- Evidencia 4: Cuadro comparativo (DFS, BFS, $A^*$), recomendación técnica y relación con aplicaciones de IA documentados en el informe del repositorio.
 
 ## 5. Matriz de participación
 
@@ -78,7 +78,7 @@ Ejecucion:
 |---|---|---|---|---|---|
 | Geraldine Khatrina Tudela Theo | Alta | Media | Alta | Sí/No | Desarrollo de la Actividad 1, elaboración del algoritmo recursivo en Java, explicación del caso base y caso recursivo, documentación en PDF, evidencias, publicación en GitHub y estructuración del README.. |
 | mijail mendoza chavez | Alta | Alta | media | Sí/No |Implementación de Merge Sort en Java, pruebas en IntelliJ IDEA y documentación de la Actividad 2: Ordenamiento recursivo  |
-| Victor Manuel Fabricio Quispe Gonzales | Alta | Media | Alta | Sí | |
+| Victor Manuel Fabricio Quispe Gonzales | Alta | Media | Alta | Si | Desarrollo de las Actividades 3 y 4, diagrama del grafo del campus, análisis comparativo (DFS, BFS, $A^*$) y relación con IA |
 | [Nombre 4] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Sí/No] | [Commits, avances, etc.] |
 | [Nombre 5] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Sí/No] | [Commits, avances, etc.] |
 
@@ -96,4 +96,4 @@ Este procedimiento nos ayudó a comprender el funcionamiento del caso base y del
 - Ordenamiento recursivo:Se logró implementar correctamente el algoritmo Merge Sort en Java, aplicando el principio de divide y vencerás para ordenar los tiempos estimados de recorrido de las ubicaciones del campus. Mediante la recursividad, se dividieron los datos en grupos pequeños para posteriormente combinarlos en orden ascendente, obteniendo resultados correctos durante la ejecución en IntelliJ IDEA. Finalmente, se demuestra que Merge Sort es una alternativa eficiente para organizar la información del sistema inteligente de orientación, con una complejidad temporal de O(n log n).
 ---
 
-**Última actualización:** [19/11/2026]
+**Última actualización:** [24/11/2026]
